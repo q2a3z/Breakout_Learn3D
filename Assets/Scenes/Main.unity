@@ -277,7 +277,7 @@ GameObject:
   - component: {fileID: 573857116}
   m_Layer: 0
   m_Name: WallR
-  m_TagString: Untagged
+  m_TagString: Boarder
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -577,7 +577,7 @@ SphereCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1146315541}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: 14faab098183244fd810c1a9271f4576, type: 2}
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
@@ -866,7 +866,7 @@ GameObject:
   - component: {fileID: 1479489747}
   m_Layer: 0
   m_Name: WallL
-  m_TagString: Untagged
+  m_TagString: Boarder
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
